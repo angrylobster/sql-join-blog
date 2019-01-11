@@ -1,7 +1,3 @@
-\c hw_joins
-
--- Create sample users
-
 INSERT INTO users (name) VALUES
   ('Kelly'),
   ('Chris'),
